@@ -1,1 +1,0 @@
-D:/Cpp_dev/Visual Studio Build Tools/MSBuild/Microsoft/VC/v170
