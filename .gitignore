@@ -32,6 +32,9 @@
 *.a
 *.lib
 
+# Cmake Build Files
+/build
+
 # Executables
 *.exe
 *.out
